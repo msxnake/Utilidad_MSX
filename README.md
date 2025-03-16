@@ -17,4 +17,10 @@ Proyecto para procesar sprites del MSX1 usando Python y KivyMD. Incluye una inte
    ```bash
    git clone https://github.com/TuUsuario/Utilidad_MSX.git
    cd Utilidad_MSX
+   
+ RUN 
+ 
+ python app_interface.py
+ 
+ 
 
